@@ -1,0 +1,21 @@
+:root{ 
+  --b-header-background: #4b5a1e;
+  --b-footer-background: #ccc95f;
+  --b-HomePage-container-background: #ffe09f;
+
+  --b-color-dandelion: #fbd353;
+  --b-color-arrowtown: #958A73;
+  --b-color-olive-drab: #599529;
+}
+
+.Widget--a {
+  background-color: var(--b-color-olive-drab);  
+}
+
+.Widget--b {
+  background-color: var(--b-color-arrowtown);  
+}
+
+.Widget--c {
+  background-color: var(--b-color-dandelion);  
+}
